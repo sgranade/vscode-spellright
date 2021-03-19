@@ -4,6 +4,10 @@
 
 - **New:** Added spelling for [ChoiceScript](https://github.com/sgranade/choicescript_vscode) document type.
 
+## **3.0.56** released on 6th January 2021
+
+- **Change:** Binaries updated for Electron 11.x.
+
 ## **3.0.52** released on 3rd August 2020
 
 - **Change:** Binaries updated for Electron 9.x.
